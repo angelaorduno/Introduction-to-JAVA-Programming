@@ -1,4 +1,3 @@
-# Introduction-to-JAVA-Programming
-Comprehensive Version 10th Edition
+# Coding in Java
 
-Here are some of my Data Structures solutions
+Data Structure exercises from Y.Daniel Liang's Introduction to Java Programming Comprehensive Version 10th Edition
